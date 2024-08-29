@@ -29,6 +29,7 @@ qwen2-0_5b-instruct-q8_0.gguf (Change this according to your needs)
 4. Run 
 
 python main.py #local mode
+
 python main.py -R #remote mode
 
 5. use
