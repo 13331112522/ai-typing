@@ -6,7 +6,8 @@ A simple assistant for Mac that both support `llama-cpp-python` to assist you lo
 ## Why?
 
 Because I wanted a more pythonic solution and wanted to build something w/ llama-cpp-python.
-Because sometimes purely local model with llama-cpp-python is not enough, I wanted to use remote model to get better results.
+
+Because sometimes purely local mode with llama-cpp-python is not enough, I wanted to use remote model to get better results.
 
 ## Setup
 
