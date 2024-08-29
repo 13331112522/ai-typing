@@ -35,6 +35,7 @@ python main.py -R #remote mode
 5. use
 
 Fn+F9 for correctness and optimization of your text selected.
+
 Fn+F10 for translation into Chinese.
 
 
