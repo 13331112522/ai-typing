@@ -2,6 +2,12 @@
 
 A simple assistant for Mac that both support `llama-cpp-python` to assist you locally with Qwen0.5-Instruct and remotely with Zhipu GLM-4-airX (easy to extend to other LLMs according to your needs).
 
+## Updating:
+
+1. Add the keyboard shortcut Fn+F11 to initiate a chat with the selected text. You may pose questions about the text or provide instructions, such as translation or optimization, among others. To exit the chat, type EXIT.
+
+2. Add the keyboard shortcut Fn+F8 to allow you to save the selected text into a file as a note at any time. This feature uses Obsidian notes as an example and is particularly convenient for saving important information while browsing the web or reading documents.
+
 
 ## Why?
 
@@ -35,9 +41,14 @@ python main.py -R #remote mode
 
 5. use
 
+Fn+F8 for saving the selected text into a file as a note.
+
 Fn+F9 for correctness and optimization of your text selected.
 
 Fn+F10 for translation into Chinese.
+
+Fn+F11 for chat with the selected text.
+
 
 
 ## Acknowledgements:
